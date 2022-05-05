@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/@pawanraut_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pawanraut_99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pawan raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan raut" height="30" width="40" /></a>
-<a href="https://instagram.com/pawanraut_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pawanraut_99" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.pawanraut_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pawanraut_99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/crackjado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="crackjado" height="30" width="40" /></a>
 </p>
 
