@@ -1,4 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://Pavan-123-tech.io)
+<body style="background-color:powderblue;">
 <h1 align="center">Hi 👋, I'm Pawan Raut</h1>
 <h3 align="center">A passionate as developer from India</h3>
 <img alignn="right" alt="Hacker" width"400" src="https://c.tenor.com/esCBwJ7Tq4UAAAAC/pc-hack.gif"> 
@@ -37,5 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-123-tech&show_icons=true&locale=en" alt="pavan-123-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-123-tech&" alt="pavan-123-tech" /></p>
-
+</body>
 -->
